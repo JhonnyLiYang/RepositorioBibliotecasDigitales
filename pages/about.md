@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://i.pinimg.com/736x/f8/c3/d4/f8c3d47baafa788462a8926c7900698d.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
@@ -26,10 +26,9 @@ esto también ha industrializado la producción de videojuegos. Cada vez más, l
 videojuegos que son copias de otros exitos pasados. Dentro de este panorama, los videojuegos independientes resaltan por no estar restringidos por normas editoriales ni buscar maximizar las ganancias, sino porque sus
 creadores buscan expresar su creatividad y personalidad mediante el arte que son los videojuegos.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+En esta colección, podras encontrar:
+- algunos de los videojuegos indies más representativos de los últimos años
+- una recopilación de las pistas musicales más icónicas asociadas a los videojuegos indies
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
