@@ -14,6 +14,8 @@ credits: true
 
 ## Acerca de esta colección
 
+La biblioteca digital "Indie Games" es un homenaje a los juegos independientes. Similar a las películas o música independiente, los juegos "indies" son aquellos creados por equipos de desarrollo de tamaño reducido, a veces
+
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
