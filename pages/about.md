@@ -25,6 +25,4 @@ esto también ha industrializado la producción de videojuegos. Cada vez más, l
 videojuegos que son copias de otros exitos pasados. Dentro de este panorama, los videojuegos independientes resaltan por no estar restringidos por normas editoriales ni buscar maximizar las ganancias, sino porque sus
 creadores buscan expresar su creatividad y personalidad mediante el arte que son los videojuegos.
 
-En esta colección, podras encontrar:
-- algunos de los videojuegos indies más representativos de los últimos años
-- una recopilación de las pistas musicales más icónicas asociadas a los videojuegos indies
+En esta colección, podras encontrar algunos de los videojuegos indies más representativos de los últimos años, así como información adicional acerca de cada uno de ellos.
