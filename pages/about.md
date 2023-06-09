@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="annoyingdog.png" %}
+{% include feature/jumbotron.html objectid="https://drive.google.com/file/d/17hIt4onInnivHA9hZl0B3iwjesUQ2PjG/view?usp=sharing" %}
 
 
 ## Acerca de esta colección
