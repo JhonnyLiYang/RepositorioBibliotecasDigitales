@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="file:///C:/Users/user/Downloads/annoyingdog.png" %}
+{% include feature/jumbotron.html objectid="https://wallpaperaccess.com/full/409593.jpg" %}
 
 
 ## Acerca de esta colección
